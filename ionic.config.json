@@ -6,5 +6,6 @@
   },
   "type": "ionic-angular",
   "watchPatterns": [],
-  "id": "com.efi.efimovil"
+  "id": "com.efi.efimovil",
+  "app_id": ""
 }
